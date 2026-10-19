@@ -41,8 +41,8 @@ python -m venv venv
 Install the locked interface dependencies using `pip`:
 ```vs code
 pip install -r requirements.txt
- includes streamlit,pandas,plotly,numpy
 ```
+requirement.txt includes includes streamlit,pandas,plotly,numpy
 ### 3. Initialize the Application
 Boot up the local reactive development server:
 ```vs code
