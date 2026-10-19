@@ -17,6 +17,7 @@ This system functions entirely as a **frontend-driven, serverless single-page an
 
 ## 🛠️ Technology Stack & Dependencies
 
+*   **Application:** Visual Studio Code (VS Code)
 *   **Runtime Environment:** Python 3.10+
 *   **Application & UI Framework:** Streamlit (Reactive Interface Layer)
 *   **Data Processing Core:** Pandas & NumPy (Vectorized Manipulation Engine)
@@ -42,7 +43,7 @@ Install the locked interface dependencies using `pip`:
 ```vs code
 pip install -r requirements.txt
 ```
-requirement.txt includes includes streamlit,pandas,plotly,numpy
+requirements.txt includes streamlit,pandas,plotly,numpy 
 ### 3. Initialize the Application
 Boot up the local reactive development server:
 ```vs code
